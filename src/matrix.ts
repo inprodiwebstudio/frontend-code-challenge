@@ -1,4 +1,4 @@
-// ? Task: Implementa la función getMatrixAvgDiagonal que recibe una matriz de números nxn y 
+// ? Implementa la función getMatrixAvgDiagonal que recibe una matriz de números nxn y 
 // ? devuelve la media de los números de la diagonal principal.
 
 // ! Si la matriz no es nxn devuelve 0.
