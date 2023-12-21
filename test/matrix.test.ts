@@ -54,7 +54,7 @@ describe("Suma de la diagonal de una matriz nxn", () => {
   });
 
   it("Debería retornar 0 si la matriz no es nxn", () => {
-    const matrix = [[1], [1, 2], [1, 2, 3]];
+    const matrix = [[1, 2], [1, 2], [1, 2]];
     const result = getMatrixAvgDiagonal(matrix);
     expect(result).toBe(0);
   });
